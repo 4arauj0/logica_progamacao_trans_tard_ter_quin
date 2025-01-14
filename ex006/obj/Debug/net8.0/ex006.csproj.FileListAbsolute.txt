@@ -1,0 +1,15 @@
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\obj\Debug\net8.0\ex006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\obj\Debug\net8.0\ex006.AssemblyInfoInputs.cache
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\obj\Debug\net8.0\ex006.AssemblyInfo.cs
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\obj\Debug\net8.0\ex006.csproj.CoreCompileInputs.cache
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\obj\Debug\net8.0\ex006.sourcelink.json
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\bin\Debug\net8.0\ex006.exe
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\bin\Debug\net8.0\ex006.deps.json
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\bin\Debug\net8.0\ex006.runtimeconfig.json
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\bin\Debug\net8.0\ex006.dll
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\bin\Debug\net8.0\ex006.pdb
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\obj\Debug\net8.0\ex006.dll
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\obj\Debug\net8.0\refint\ex006.dll
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\obj\Debug\net8.0\ex006.pdb
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\obj\Debug\net8.0\ex006.genruntimeconfig.cache
+C:\Users\felipe.aoliveira54\source\repos\logica_progamacao_tarde_ter_qui\ex006\obj\Debug\net8.0\ref\ex006.dll

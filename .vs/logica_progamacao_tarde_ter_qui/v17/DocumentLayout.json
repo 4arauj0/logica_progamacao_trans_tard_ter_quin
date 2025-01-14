@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\felipe.aoliveira54\\source\\repos\\logica_progamacao_tarde_ter_qui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69BDB4D3-24A9-4F5A-8014-1CBD71BCC8F8}|ex004\\ex004.csproj|c:\\users\\felipe.aoliveira54\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69BDB4D3-24A9-4F5A-8014-1CBD71BCC8F8}|ex004\\ex004.csproj|solutionrelative:ex004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{698E9790-4949-48A6-8D58-8CC49598C7F1}|ex006\\ex006.csproj|c:\\users\\felipe.aoliveira54\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698E9790-4949-48A6-8D58-8CC49598C7F1}|ex006\\ex006.csproj|solutionrelative:ex006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698E9790-4949-48A6-8D58-8CC49598C7F1}|ex006\\ex006.csproj|c:\\users\\felipe.aoliveira54\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex006\\ex006.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{698E9790-4949-48A6-8D58-8CC49598C7F1}|ex006\\ex006.csproj|solutionrelative:ex006\\ex006.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\felipe.aoliveira54\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex004\\Program.cs",
-              "RelativeDocumentMoniker": "ex004\\Program.cs",
-              "ToolTip": "C:\\Users\\felipe.aoliveira54\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex004\\Program.cs",
-              "RelativeToolTip": "ex004\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\felipe.aoliveira54\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex006\\Program.cs",
+              "RelativeDocumentMoniker": "ex006\\Program.cs",
+              "ToolTip": "C:\\Users\\felipe.aoliveira54\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex006\\Program.cs",
+              "RelativeToolTip": "ex006\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T19:22:37.363Z",
+              "WhenOpened": "2025-01-14T20:00:38.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex006",
+              "DocumentMoniker": "C:\\Users\\felipe.aoliveira54\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex006\\ex006.csproj",
+              "RelativeDocumentMoniker": "ex006\\ex006.csproj",
+              "ToolTip": "C:\\Users\\felipe.aoliveira54\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex006\\ex006.csproj",
+              "RelativeToolTip": "ex006\\ex006.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T20:00:33.794Z",
               "EditorCaption": ""
             }
           ]
